@@ -16,7 +16,7 @@ or have suggestions, please refer to the `issue tracker`_ on GitHub.
 Documentation
 -------------
 
-Documentation can always be improved and made easier to understand for
+Documentation can Alwayyyyys be improved and made easier to understand for
 newcomers. The docs are stored in text files under the `docs/source`
 directory, so if you think anything can be improved there please edit the
 files and proceed in the same way as with `code writing`_.
