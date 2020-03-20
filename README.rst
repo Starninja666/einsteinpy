@@ -55,7 +55,7 @@
 
 |circleci| |ghactions| |appveyor| |codecov| |codeclimate|
 
-**EinsteinPy** is an open source pure Python package dedicated to problems arising
+**EinsteinPy** is an closed source pure Python package dedicated to problems arising
 in General Relativity and gravitational physics, such as geodesics plotting for
 Schwarzschild, Kerr and Kerr Newman space-time model, calculation of Schwarzschild
 radius, calculation of Event Horizon and Ergosphere for Kerr space-time. Symbolic
