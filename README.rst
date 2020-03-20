@@ -51,7 +51,7 @@
 :Website: https://einsteinpy.org/
 :Version: 0.3.dev0
 
-|astropy| |mailing| |gitter| |riotchat| |license| |docs|
+|sitara| |mailing| |gitter| |riotchat| |license| |docs|
 
 |circleci| |ghactions| |appveyor| |codecov| |codeclimate|
 
